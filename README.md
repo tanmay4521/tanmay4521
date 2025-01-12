@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Project [Pharmacy Management System Using Java](https://github.com/tanmay4521/Pharmacy-Management-System-Using-java.git)
 
-- 🌱 I’m currently learning **Java, MySQL, Data Structure**
+- 🌱 I’m currently learning **Java, MySQL, Data Structure, Springboot, JSP, Angular, J2EE, HTML&CSS **
 
 - 🤝 I’ve Completed Internship in **CodSoft As Java Developer**
 
