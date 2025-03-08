@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay4521&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay4521" /> </p>
 
-- 🔭 I’m currently working on Project [Pharmacy Management System Using Java](https://github.com/tanmay4521/Pharmacy-Management-System-Using-java.git)
+- 🔭 I’m currently working on Project [Nursery Management App]
 
 - 🌱 I’m currently learning **Java, MySQL, Data Structure, Springboot, JSP, Angular, J2EE, HTML&CSS**
 
